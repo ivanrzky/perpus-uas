@@ -29,7 +29,7 @@ Route::middleware(['auth'])->group(function () {
 
         Route::get('/kategori', KategoriController::class);
         Route::get('/rak', RakController::class);
-        Route::get('/penerbit', PenerbitController::class);
+        Route::get('/penerbit', PenerbitController::class); 
         Route::get('/buku', BukuController::class);
         Route::get('/transaksi', TransaksiController::class);
         Route::get('/chart', ChartController::class);
