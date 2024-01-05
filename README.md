@@ -4,6 +4,7 @@
 
 Laravel 8 pepustakaan dibuat oleh :
 
+- Freddy
 - Github : <a href="https://github.com/musyahya"> Musyahya </a>
 - Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
 
