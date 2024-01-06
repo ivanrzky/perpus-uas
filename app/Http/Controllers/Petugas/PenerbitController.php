@@ -13,6 +13,7 @@ class PenerbitController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
+    /**controller penerbit */
     public function __invoke(Request $request)
     {
         return view('petugas/penerbit/index');  
