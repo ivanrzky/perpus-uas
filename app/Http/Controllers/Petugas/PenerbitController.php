@@ -15,6 +15,6 @@ class PenerbitController extends Controller
      */
     public function __invoke(Request $request)
     {
-        return view('petugas/penerbit/index');
+        return view('petugas/penerbit/index');  
     }
 }
