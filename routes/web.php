@@ -44,4 +44,4 @@ Route::middleware(['auth'])->group(function () {
     Route::middleware(['role:admin'])->group(function () {
         Route::get('/user', UserController::class);
     });
-});
+}); 
